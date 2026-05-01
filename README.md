@@ -1,0 +1,153 @@
+<div align="center">
+
+```
+██████╗  ██╗  ██╗███╗  ██╗██████╗ ██╗   ██╗██╗     ████████╗ ██████╗  ███████╗ ██████╗  █████╗
+██╔══██╗ ██║  ██║████╗ ██║╚════██╗██║   ██║██║     ╚══██╔══╝██╔═████╗ ╚════██║██╔═████╗██╔══██╗
+██████╔╝ ███████║██╔██╗██║ █████╔╝██║   ██║██║        ██║   ██║██╔██║  █████╔╝██║██╔██║╚█████╔╝
+██╔══██╗ ╚════██║██║╚████║ ╚═══██╗██║   ██║██║        ██║   ████╔╝██║  ╚═══██╗████╔╝██║██╔══██╗
+██║  ██║      ██║██║ ╚███║██████╔╝╚██████╔╝███████╗   ██║   ╚██████╔╝ ██████╔╝╚██████╔╝╚█████╔╝
+╚═╝  ╚═╝      ╚═╝╚═╝  ╚══╝╚═════╝  ╚═════╝ ╚══════╝  ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝  ╚════╝
+```
+
+**`Embedded Systems & IoT · Cybersecurity · Computer Vision`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+researcher+in+training+%F0%9F%94%90;Embedded+Systems+%26+IoT+student+%40+IFRI+%7C+UAC;CTF+Player+%7C+RE+%7C+Pwn+%7C+Web;Building+at+the+intersection+of+Hardware+%26+AI)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## whoami
+
+```python
+class Laurent:
+    name     = "Laurent KPESSOU N. VOGNITO"
+    alias    = "R4n3ul0708"
+    location = "Cotonou, Bénin 🇧🇯"
+    school   = "IFRI — Université d'Abomey-Calavi"
+    degree   = "Licence Pro Systèmes Embarqués & IoT (L2)"
+    email    = "vognitolaurent@gmail.com"
+
+    focus    = [
+        "IoT Security & Embedded Systems",
+        "Reverse Engineering & Binary Exploitation",
+        "Computer Vision on constrained hardware",
+        "Web Pentesting & CTF"
+    ]
+
+    goal     = "Expert en cybersécurité des systèmes embarqués et IoT"
+```
+
+---
+
+## 🛠️ Stack & Compétences
+
+### Langages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust_(learning)-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Cybersécurité
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-pwn|rev|web|boot2root-red?style=flat-square)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-Ghidra|Radare2-orange?style=flat-square)
+![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-BurpSuite-FF6633?style=flat-square)
+![Pwntools](https://img.shields.io/badge/Pwntools-4A154B?style=flat-square)
+
+### IA & Data
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### Systèmes Embarqués & IoT
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+
+### Dev & Outils
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_(C++)-41CD52?style=flat-square&logo=qt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projets
+
+### 🔍 PhishAnalyzer AI
+> Outil web d'analyse de phishing — détecte les liens suspects et emails malveillants, génère un rapport PDF complet.
+
+`Python 3` · `Django` · `BeautifulSoup` · `VirusTotal API` · `Cohere/OpenAI` · `Tailwind CSS`
+
+---
+
+### 🤖 Spam Detector
+> Algorithme de détection de spam entraîné avec Scikit-learn, classification ML sur corpus d'emails.
+
+`Python` · `Scikit-learn` · `NLP` · `Pandas`
+
+---
+
+## 🏆 Événements & Certifications
+
+| Événement | Date | Lieu |
+|---|---|---|
+| **Deep Learning Indabax Benin 2025** | Dec 2025 | Abomey-Calavi |
+| **NASA Space Apps Challenge** | Oct 2025 | Cotonou |
+| **Finale HACKERLAB 2025** | Jun 2025 | Cotonou |
+| **Hackathon Hack4IFRI** | 2024–2025 | IFRI |
+
+**Certifications :** CCEP (Red Team Leaders) · NASA Galactic Problem Solver · Intro to Cybersecurity (Cisco) · Python (HackerRank, DataCamp, Sololearn) · Intermediate Python (DataCamp)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Raneult0708&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00FF41&title_color=00FF41)
+
+![Streak](https://streak-stats.demolab.com/?user=Raneult0708&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raneult0708&theme=dark&hide_border=true&layout=compact&title_color=00FF41)
+
+</div>
+
+---
+
+## 🎯 Objectif
+
+> Devenir **expert en cybersécurité des systèmes embarqués et IoT** —
+> maîtriser le reverse engineering firmware, le pentest IoT hardware,
+> et la vision par ordinateur appliquée à la sécurité.
+> De l'assembleur jusqu'aux réseaux de neurones.
+
+---
+
+## 🌐 Réseaux
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Laurent-VOGNITO)
+[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/vognito44454)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@R4n3ul7_0708)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/laurent06341)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vognitolaurent@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-r4n3ul70708.me-00FF41?style=flat-square)](https://r4n3ul70708.me)
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Raneult0708&color=00FF41&style=flat-square&label=Profile+views)
+
+*"Security is not a product, it's a process."*
+
+</div>
