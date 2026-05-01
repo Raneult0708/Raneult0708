@@ -1,13 +1,15 @@
 <div align="center">
 
-```
-██████╗  ██╗  ██╗███╗  ██╗██████╗ ██╗   ██╗██╗     ████████╗ ██████╗  ███████╗ ██████╗  █████╗
-██╔══██╗ ██║  ██║████╗ ██║╚════██╗██║   ██║██║     ╚══██╔══╝██╔═████╗ ╚════██║██╔═████╗██╔══██╗
-██████╔╝ ███████║██╔██╗██║ █████╔╝██║   ██║██║        ██║   ██║██╔██║  █████╔╝██║██╔██║╚█████╔╝
-██╔══██╗ ╚════██║██║╚████║ ╚═══██╗██║   ██║██║        ██║   ████╔╝██║  ╚═══██╗████╔╝██║██╔══██╗
-██║  ██║      ██║██║ ╚███║██████╔╝╚██████╔╝███████╗   ██║   ╚██████╔╝ ██████╔╝╚██████╔╝╚█████╔╝
-╚═╝  ╚═╝      ╚═╝╚═╝  ╚══╝╚═════╝  ╚═════╝ ╚══════╝  ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝  ╚════╝
-```
+<pre style="font-family:monospace; font-size:16px; line-height:1;">
+<span style="color:#00FF41;"> ____  _  _         _____       _ _____  ___ _____ ___   ___  </span>
+<span style="color:#8BE9FD;">|  _ \\| || |  _ __ |___ / _   _| |___  |/ _ \\___  / _ \\ ( _ ) </span>
+<span style="color:#FF79C6;">| |_) | || |_| '_ \  |_ \| | | | |  / /| | | | / / | | |/ _ \\ </span>
+<span style="color:#FFB86C;">|  _ <|__   _| | | |___) | |_| | | / / | |_| |/ /| |_| | (_) |</span>
+<span style="color:#BD93F9;">|_| \_\\  |_| |_| |_|____/ \__,_|_|/_/___\___//_/  \___/ \___/ </span>
+</pre>
+
+
+
 
 **`Embedded Systems & IoT · Cybersecurity · Computer Vision`**
 
@@ -46,7 +48,7 @@ class Laurent:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly (learning) -000000?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust_(learning)-000000?style=flat-square&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
