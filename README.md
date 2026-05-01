@@ -21,11 +21,10 @@
 
 ```python
 class Laurent:
-    name     = "Laurent KPESSOU N. VOGNITO"
-    alias    = "R4n3ul0708"
-    location = "Cotonou, Bénin 🇧🇯"
+    name     = "Laurent Kpessou N. VOGNITO"
+    alias    = "R4n3ul_0708"
     school   = "IFRI — Université d'Abomey-Calavi"
-    degree   = "Licence Pro Systèmes Embarqués & IoT (L2)"
+    degree   = "Licence Professionnel Systèmes Embarqués & IoT (L2)"
     email    = "vognitolaurent@gmail.com"
 
     focus    = [
@@ -59,15 +58,11 @@ class Laurent:
 ![Pwntools](https://img.shields.io/badge/Pwntools-4A154B?style=flat-square)
 
 ### IA & Data
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### Systèmes Embarqués & IoT
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white)
@@ -76,6 +71,7 @@ class Laurent:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt_(C++)-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
@@ -110,19 +106,6 @@ class Laurent:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Raneult0708&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00FF41&title_color=00FF41)
-
-![Streak](https://streak-stats.demolab.com/?user=Raneult0708&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raneult0708&theme=dark&hide_border=true&layout=compact&title_color=00FF41)
-
-</div>
-
----
 
 ## 🎯 Objectif
 
