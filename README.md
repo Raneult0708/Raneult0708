@@ -153,7 +153,7 @@ class Laurent:
 
 ## 🌐 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laurent VOGNITO0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-vognito-a71750328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laurent%20VOGNITO-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-vognito-a71750328)
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/vognito44454)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@R4n3ul7_0708)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/laurent06341)
