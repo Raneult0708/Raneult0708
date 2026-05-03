@@ -22,7 +22,7 @@
 ```python
 class Laurent:
     name     = "Laurent Kpessou N. VOGNITO"
-    alias    = "R4n3ul_0708"
+    alias    = "R4n3ul7_0708"
     school   = "IFRI — Université d'Abomey-Calavi"
     degree   = "Licence Professionnel Systèmes Embarqués & IoT (L2)"
     email    = "vognitolaurent@gmail.com"
@@ -128,16 +128,18 @@ class Laurent:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raneult0708&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=8BE9FD&point=BD93F9&area=true&area_color=001a00" width="98%"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Raneult0708&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=8" width="90%"/>
 
 </div>
+<br/>
 
+**Résumé des Stats**
+
+| Stat | Valeur |
+|------|--------|
+| 📁 Repositories | ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Raneult0708&query=$.public_repos&label=&color=0D1117&style=flat-square) |
+| ⭐ Stars reçues | ![stars](https://img.shields.io/github/stars/Raneult0708?label=&color=0D1117&style=flat-square) |
+| 👥 Followers | ![followers](https://img.shields.io/github/followers/Raneult0708?label=&color=0D1117&style=flat-square) |
 ---
 
 ## 🎯 Objectif
@@ -149,13 +151,14 @@ class Laurent:
 
 ---
 
-## 🌐 Réseaux
+## 🌐 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Laurent-VOGNITO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laurent VOGNITO0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-vognito-a71750328)
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/vognito44454)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@R4n3ul7_0708)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/laurent06341)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vognitolaurent@gmail.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-R4n3ul70708-17963B?style=flat-square&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2144397)
+[![Email](https://img.shields.io/badge/Email-vognitolaurent@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vognitolaurent@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-r4n3ul70708.me-00FF41?style=flat-square)](https://r4n3ul70708.me)
 
 ---
