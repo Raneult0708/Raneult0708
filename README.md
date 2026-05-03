@@ -74,6 +74,12 @@ class Laurent:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
 
 ---
 
@@ -124,7 +130,7 @@ class Laurent:
 
 </div>
 <br/>
-
+<div align="center">
 **Résumé des Stats**
 
 | Stat | Valeur |
@@ -132,6 +138,7 @@ class Laurent:
 | 📁 Repositories | ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Raneult0708&query=$.public_repos&label=&color=0D1117&style=flat-square) |
 | ⭐ Stars reçues | ![stars](https://img.shields.io/github/stars/Raneult0708?label=&color=0D1117&style=flat-square) |
 | 👥 Followers | ![followers](https://img.shields.io/github/followers/Raneult0708?label=&color=0D1117&style=flat-square) |
+</div>
 ---
 
 ## 🎯 Objectif
@@ -145,6 +152,8 @@ class Laurent:
 
 ## 🌐 Contacts
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laurent%20VOGNITO-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-vognito-a71750328)
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/vognito44454)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@R4n3ul7_0708)
@@ -152,6 +161,8 @@ class Laurent:
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-R4n3ul70708-17963B?style=flat-square&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2144397)
 [![Email](https://img.shields.io/badge/Email-vognitolaurent@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vognitolaurent@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-r4n3ul70708.me-00FF41?style=flat-square)](https://r4n3ul70708.me)
+
+</div>
 
 ---
 
