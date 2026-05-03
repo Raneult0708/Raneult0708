@@ -1,19 +1,21 @@
 <div align="center">
 
-<pre style="font-family:monospace; font-size:16px; line-height:1;">
+<pre style="font-family:monospace; font-size:16px; line-height:1.2;">
 <span style="color:#00FF41;"> ____  _  _         _____       _ _____  ___ _____ ___   ___  </span>
-<span style="color:#8BE9FD;">|  _ \\| || |  _ __ |___ / _   _| |___  |/ _ \\___  / _ \\ ( _ ) </span>
-<span style="color:#FF79C6;">| |_) | || |_| '_ \  |_ \| | | | |  / /| | | | / / | | |/ _ \\ </span>
+<span style="color:#8BE9FD;">|  _ \| || |  _ __ |___ / _   _| |___  |/ _ \___  / _ \ ( _ ) </span>
+<span style="color:#FF79C6;">| |_) | || |_| '_ \  |_ \| | | | |  / /| | | | / / | | |/ _ \</span>
 <span style="color:#FFB86C;">|  _ <|__   _| | | |___) | |_| | | / / | |_| |/ /| |_| | (_) |</span>
-<span style="color:#BD93F9;">|_| \_\\  |_| |_| |_|____/ \__,_|_|/_/___\___//_/  \___/ \___/ </span>
+<span style="color:#BD93F9;">|_| \_\  |_| |_| |_|____/ \__,_|_|/_/___\___//_/  \___/ \___/ </span>
 </pre>
 
+<!-- ═══════════════ FLOATING BANNER ═══════════════ -->
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001a00,30:003300,60:001a2e,100:1a0033&height=65&text=⚙️%20Embedded%20Systems%20%26%20IoT%20%20·%20%20🔐%20Cybersecurity%20%20·%20%20👁️%20Computer%20Vision&fontSize=14&fontColor=00FF41&animation=fadeIn&stroke=00FF41&strokeWidth=1" width="82%"/>
 
+<br/>
 
-**`Embedded Systems & IoT · Cybersecurity · Computer Vision`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+researcher+in+training+%F0%9F%94%90;Embedded+Systems+%26+IoT+student+%40+IFRI+%7C+UAC;CTF+Player+%7C+RE+%7C+Pwn+%7C+Web;Building+at+the+intersection+of+Hardware+%26+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+researcher+in+training+🔐;Embedded+Systems+%26+IoT+student+%40+IFRI+%7C+UAC;CTF+Player+%7C+RE+%7C+Pwn+%7C+Web;Building+at+the+intersection+of+Hardware+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,7 +50,7 @@ class Laurent:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly (learning) -000000?style=flat-square&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_(learning)-000000?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust_(learning)-000000?style=flat-square&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -108,6 +110,29 @@ class Laurent:
 
 ---
 
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raneult0708&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=8BE9FD&text_color=F8F8F2&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneult0708&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=F8F8F2&langs_count=8" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raneult0708&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=8BE9FD&currStreakLabel=00FF41&sideLabels=BD93F9&dates=F8F8F2" width="65%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Raneult0708&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=8" width="90%"/>
+
+</div>
+
+---
 
 ## 🎯 Objectif
 
