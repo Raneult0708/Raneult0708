@@ -1,16 +1,17 @@
 <div align="center">
 
 <!--
-  ╔══════════════════════════════════════════════════════╗
-  ║  Sauvegarde assets/banner.svg dans ton repo GitHub   ║
-  ║  puis pousse-le → le chemin ci-dessous fonctionnera  ║
-  ╚══════════════════════════════════════════════════════╝
+  ┌────────────────────────────────────────────────────────────────┐
+  │  SETUP : place banner.png dans assets/banner.png de ce repo   │
+  │  Puis push → ça s'affichera parfaitement sur le profil        │
+  └────────────────────────────────────────────────────────────────┘
 -->
-<img src="./assets/banner.svg" width="100%" alt="R4n3ul7_0708 Banner"/>
 
-<br/>
+<img src="./assets/banner.png" width="100%" alt="R4n3ul7_0708"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+researcher+in+training+🔐;Embedded+Systems+%26+IoT+student+%40+IFRI+%7C+UAC;CTF+Player+%7C+RE+%7C+Pwn+%7C+Web;Building+at+the+intersection+of+Hardware+%26+AI)](https://git.io/typing-svg)
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Security+researcher+in+training+🔐;Embedded+Systems+%26+IoT+student+%40+IFRI+%7C+UAC;CTF+Player+%7C+RE+%7C+Pwn+%7C+Web;Building+at+the+intersection+of+Hardware+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -109,18 +110,25 @@ class Laurent:
 
 <div align="center">
 
-<!-- Carte stats — se met à jour automatiquement à chaque visite -->
-<img src="https://github-readme-stats.vercel.app/api?username=Raneult0708&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=8BE9FD&text_color=F8F8F2&include_all_commits=true&count_private=true&cache_seconds=3600" height="175"/>
-&nbsp;
-<!-- Top langages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneult0708&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=F8F8F2&langs_count=8&cache_seconds=3600" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Raneult0708&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=8BE9FD&text_color=F8F8F2&include_all_commits=true&count_private=true" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneult0708&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=F8F8F2&langs_count=8" height="175"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<!-- Streak — demolab est plus stable qu'herokuapp -->
-<img src="https://streak-stats.demolab.com/?user=Raneult0708&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=8BE9FD&currStreakLabel=00FF41&sideLabels=BD93F9&dates=F8F8F2&stroke=00FF4110" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=Raneult0708&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=8BE9FD&currStreakLabel=00FF41&sideLabels=BD93F9&dates=F8F8F2" width="65%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raneult0708&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=8BE9FD&point=BD93F9&area=true&area_color=001a00" width="98%"/>
 
 </div>
 
