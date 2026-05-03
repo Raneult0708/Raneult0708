@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 175" width="900" height="175">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="30%"  stop-color="#001a00"/>
+      <stop offset="70%"  stop-color="#00001a"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <filter id="glow" x="-5%" y="-30%" width="110%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-5%" y="-30%" width="110%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="175" fill="url(#bgGrad)" rx="14"/>
+
+  <!-- Decorative corner dots -->
+  <circle cx="20"  cy="20"  r="2" fill="#00FF41" opacity="0.3"/>
+  <circle cx="880" cy="20"  r="2" fill="#BD93F9" opacity="0.3"/>
+  <circle cx="20"  cy="155" r="2" fill="#8BE9FD" opacity="0.3"/>
+  <circle cx="880" cy="155" r="2" fill="#FF79C6" opacity="0.3"/>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="898" height="173" fill="none" stroke="#00FF41" stroke-width="1.2" stroke-opacity="0.5" rx="13"/>
+  <!-- Inner border glow -->
+  <rect x="3" y="3" width="894" height="169" fill="none" stroke="#00FF41" stroke-width="0.4" stroke-opacity="0.2" rx="12"/>
+
+  <!-- ASCII Art — 5 colored lines, bold monospace -->
+  <text font-family="'Courier New', Courier, monospace" font-size="14.5" font-weight="bold" filter="url(#glow)">
+    <tspan x="450" y="36"  text-anchor="middle" fill="#00FF41"> ____  _  _         _____       _ _____  ___ _____ ___   ___  </tspan>
+    <tspan x="450" y="56"  text-anchor="middle" fill="#8BE9FD">|  _ \| || |  _ __ |___ / _   _| |___  |/ _ \___  / _ \ ( _ )</tspan>
+    <tspan x="450" y="76"  text-anchor="middle" fill="#FF79C6">| |_) | || |_| '_ \  |_ \| | | | |  / /| | | | / / | | |/ _ \</tspan>
+    <tspan x="450" y="96"  text-anchor="middle" fill="#FFB86C">|  _ &lt;|__   _| | | |___) | |_| | | / / | |_| |/ /| |_| | (_) |</tspan>
+    <tspan x="450" y="116" text-anchor="middle" fill="#BD93F9">|_| \_\  |_| |_| |_|____/ \__,_|_|/_/___\___//_/  \___/ \___/ </tspan>
+  </text>
+
+  <!-- Separator -->
+  <line x1="80" y1="132" x2="820" y2="132" stroke="#00FF41" stroke-width="0.6" stroke-opacity="0.45"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="155" text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="11.5" fill="#8BE9FD" letter-spacing="3.5"
+        filter="url(#softGlow)">
+    EMBEDDED SYSTEMS &amp; IoT  ·  CYBERSECURITY  ·  COMPUTER VISION
+  </text>
+</svg>

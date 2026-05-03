@@ -1,17 +1,12 @@
 <div align="center">
 
-<pre style="font-family:monospace; font-size:16px; line-height:1.2;">
-<span style="color:#00FF41;"> ____  _  _         _____       _ _____  ___ _____ ___   ___  </span>
-<span style="color:#8BE9FD;">|  _ \| || |  _ __ |___ / _   _| |___  |/ _ \___  / _ \ ( _ ) </span>
-<span style="color:#FF79C6;">| |_) | || |_| '_ \  |_ \| | | | |  / /| | | | / / | | |/ _ \</span>
-<span style="color:#FFB86C;">|  _ <|__   _| | | |___) | |_| | | / / | |_| |/ /| |_| | (_) |</span>
-<span style="color:#BD93F9;">|_| \_\  |_| |_| |_|____/ \__,_|_|/_/___\___//_/  \___/ \___/ </span>
-</pre>
-
-<!-- ═══════════════ FLOATING BANNER ═══════════════ -->
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001a00,30:003300,60:001a2e,100:1a0033&height=65&text=⚙️%20Embedded%20Systems%20%26%20IoT%20%20·%20%20🔐%20Cybersecurity%20%20·%20%20👁️%20Computer%20Vision&fontSize=14&fontColor=00FF41&animation=fadeIn&stroke=00FF41&strokeWidth=1" width="82%"/>
+<!--
+  ╔══════════════════════════════════════════════════════╗
+  ║  Sauvegarde assets/banner.svg dans ton repo GitHub   ║
+  ║  puis pousse-le → le chemin ci-dessous fonctionnera  ║
+  ╚══════════════════════════════════════════════════════╝
+-->
+<img src="./assets/banner.svg" width="100%" alt="R4n3ul7_0708 Banner"/>
 
 <br/>
 
@@ -114,15 +109,18 @@ class Laurent:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raneult0708&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=8BE9FD&text_color=F8F8F2&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneult0708&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=F8F8F2&langs_count=8" height="180"/>
+<!-- Carte stats — se met à jour automatiquement à chaque visite -->
+<img src="https://github-readme-stats.vercel.app/api?username=Raneult0708&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=8BE9FD&text_color=F8F8F2&include_all_commits=true&count_private=true&cache_seconds=3600" height="175"/>
+&nbsp;
+<!-- Top langages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneult0708&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=F8F8F2&langs_count=8&cache_seconds=3600" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raneult0708&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=8BE9FD&currStreakLabel=00FF41&sideLabels=BD93F9&dates=F8F8F2" width="65%"/>
+<!-- Streak — demolab est plus stable qu'herokuapp -->
+<img src="https://streak-stats.demolab.com/?user=Raneult0708&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=8BE9FD&currStreakLabel=00FF41&sideLabels=BD93F9&dates=F8F8F2&stroke=00FF4110" width="65%"/>
 
 </div>
 
