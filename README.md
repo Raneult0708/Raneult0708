@@ -1,11 +1,6 @@
 <div align="center">
 
-<!--
-  ┌────────────────────────────────────────────────────────────────┐
-  │  SETUP : place banner.png dans assets/banner.png de ce repo   │
-  │  Puis push → ça s'affichera parfaitement sur le profil        │
-  └────────────────────────────────────────────────────────────────┘
--->
+
 
 <img src="./assets/banner.png" width="100%" alt="R4n3ul7_0708"/>
 
@@ -120,6 +115,7 @@ class Laurent:
 
 <img src="https://streak-stats.demolab.com/?user=Raneult0708&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=8BE9FD&currStreakLabel=00FF41&sideLabels=BD93F9&dates=F8F8F2" width="65%"/>
 
+
 </div>
 
 <br/>
@@ -131,7 +127,8 @@ class Laurent:
 </div>
 <br/>
 <div align="center">
-**Résumé des Stats**
+
+
 
 | Stat | Valeur |
 |------|--------|
@@ -139,6 +136,7 @@ class Laurent:
 | ⭐ Stars reçues | ![stars](https://img.shields.io/github/stars/Raneult0708?label=&color=0D1117&style=flat-square) |
 | 👥 Followers | ![followers](https://img.shields.io/github/followers/Raneult0708?label=&color=0D1117&style=flat-square) |
 </div>
+
 ---
 
 ## 🎯 Objectif
