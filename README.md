@@ -108,14 +108,6 @@ class Laurent:
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raneult0708&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=8BE9FD&text_color=F8F8F2&include_all_commits=true&count_private=true" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneult0708&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=F8F8F2&langs_count=8" height="175"/>
-
-</div>
-
 <br/>
 
 <div align="center">
